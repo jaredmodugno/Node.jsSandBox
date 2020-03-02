@@ -1,0 +1,19 @@
+{
+  "name": "modugno-node-module",
+  "version": "1.0.0",
+  "description": "sandBox module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredmodugno/Node.jsSandBox.git"
+  },
+  "author": "Jared Modugno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaredmodugno/Node.jsSandBox/issues"
+  },
+  "homepage": "https://github.com/jaredmodugno/Node.jsSandBox#readme"
+}
